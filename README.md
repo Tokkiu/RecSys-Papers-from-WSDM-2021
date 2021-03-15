@@ -18,7 +18,7 @@ Keywords **Reinforcement learning; Long-term user engagement; Recommender system
 
 > Yingqiang Ge (Rutgers University), Shuchang Liu (Rutgers University), Ruoyuan Gao (Rutgers University), Yikun Xian (Rutgers University), Yunqi Li (Rutgers University), Xiangyu Zhao (Michigan State University), Changhua Pei (Tsinghua University), Fei Sun (Alibaba Group), Junfeng Ge (Alibaba Group), Wenwu Ou (alibaba group), Yongfeng Zhang (Rutgers University)
 
-Keywords **Recommender System; Long-term Fairness; Reinforcement Learning; Constrained Policy Optimization; Unbiased Recommendation  **  
+Keywords **Recommender System; Long-term Fairness; Reinforcement Learning; Constrained Policy Optimization; Unbiased Recommendation**  
 
 ​    
 
@@ -28,7 +28,7 @@ Keywords **Recommender System; Long-term Fairness; Reinforcement Learning; Const
 
 #### 74: Sparse-Interest Network for Sequential Recommendation
 
-Qiaoyu Tan (Texas A&M University), Jianwei Zhang (Alibaba Group), Jiangchao Yao (Alibaba Group), Ninghao Liu (Texas A&M University), Jingren Zhou (Alibaba Group), Hongxia Yang (Alibaba Group), Xia Hu (Texas A&M University)
+> Qiaoyu Tan (Texas A&M University), Jianwei Zhang (Alibaba Group), Jiangchao Yao (Alibaba Group), Ninghao Liu (Texas A&M University), Jingren Zhou (Alibaba Group), Hongxia Yang (Alibaba Group), Xia Hu (Texas A&M University)
 
 Citations **1**
 
@@ -104,6 +104,8 @@ Keywords **compositional fairness; recommender systems; ranking fairness**
 
 #### 634: Leave No User Behind: Towards Improving the Utility of Recommender Systems for Non-mainstream Users
 
+> Roger Zhe Li, Julián Urbano, Alan Hanjalic (Delft University of Technology)
+
 Citations **1**
 
 Keywords **Recommender Systems; Mainstream Bias; User Fairness**  
@@ -124,7 +126,7 @@ Keywords **Explainable Recommendation; Comparative Constraints**
 
 #### 133: Denoising Implicit Feedback for Recommendation
 
-Wenjie Wang (National University of Singapore), Fuli Feng (National University of Singapore), Xiangnan He (University of Science and Technology of China), Liqiang Nie (Shandong University), Tat-Seng Chua (National University of Singapore)
+> Wenjie Wang (National University of Singapore), Fuli Feng (National University of Singapore), Xiangnan He (University of Science and Technology of China), Liqiang Nie (Shandong University), Tat-Seng Chua (National University of Singapore)
 
 Citations **4**
 
@@ -202,7 +204,7 @@ Keywords **knowledge graph; cold-start recommendation; knowledge-aware re commen
 
 #### 231: Learning User Representations with Hypercuboids for Recommender Systems
 
-Shuai Zhang (ETH Zurich), Huoyu Liu (Alibaba), Aston Zhang (UIUC), Yue Hu (Alibaba), Ce Zhang (ETH Zurich), Yumeng Li (Alibaba), Tanchao Zhu (Alibaba), Shaojian He (Alibaba), Wenwu Ou (Alibaba)
+> Shuai Zhang (ETH Zurich), Huoyu Liu (Alibaba), Aston Zhang (UIUC), Yue Hu (Alibaba), Ce Zhang (ETH Zurich), Yumeng Li (Alibaba), Tanchao Zhu (Alibaba), Shaojian He (Alibaba), Wenwu Ou (Alibaba)
 
 Keywords **Recommender Systems, Hypercuboids, User Representation**  
 
