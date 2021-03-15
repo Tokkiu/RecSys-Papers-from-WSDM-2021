@@ -12,7 +12,7 @@ Citations **26**
 
 Keywords **Reinforcement learning; Long-term user engagement; Recommender system**  
 
-
+  
 
 #### 512: Towards Long-term Fairness in Recommendation
 
@@ -20,9 +20,9 @@ Keywords **Reinforcement learning; Long-term user engagement; Recommender system
 
 Keywords **Recommender System; Long-term Fairness; Reinforcement Learning; Constrained Policy Optimization; Unbiased Recommendation  **  
 
+​    
 
-
-
+ 
 
 ## Session Based & Sequential Recommendations
 
@@ -34,7 +34,7 @@ Citations **1**
 
 Keywords **Recommender system, Sequential recommendation, Sparse-interest network, Multi-interest extraction**  
 
-
+​    
 
 #### 441: An Efficient and Effective Framework for Session-based Social Recommendation
 
@@ -42,7 +42,7 @@ Keywords **Recommender system, Sequential recommendation, Sparse-interest networ
 
 Keywords **session-based recommendation, social recommendation, social network, graph neural network**  
 
-
+​    
 
 #### 294: Origin-Aware Next Destination Recommendation with Personalized Preference Attention
 
@@ -50,7 +50,7 @@ Keywords **session-based recommendation, social recommendation, social network, 
 
 Keywords **Recommender System; Recurrent Neural Network; Spatio-Temporal**  
 
-
+​    
 
 #### 246: Real-time Relevant Recommendation Suggestion?
 
@@ -58,7 +58,7 @@ Keywords **Recommender System; Recurrent Neural Network; Spatio-Temporal**
 
 Keywords **recommendation suggestion; recommender system; relevant recommendation ACM Reference Fo**  
 
-
+​    
 
 
 
@@ -72,13 +72,13 @@ Citations **1**
 
 Keywords **recommender systems; statistical parity; equal opportunity; recommendation bias**  
 
-
+​    
 
 #### 132: Combating Selection Biases in Recommender Systems with A Few Unbiased Ratings
 
 > Xiaojie Wang (Amazon.com Inc.), Rui Zhang (University of Melbourne), Yu Sun (Twitter Inc.), Jianzhong Qi (University of Melbourne)  
 
-  
+​      
 
 #### 51: Unbiased Learning to Rank in Feeds Recommendation
 
@@ -86,7 +86,7 @@ Keywords **recommender systems; statistical parity; equal opportunity; recommend
 
 Keywords **Feeds Recommendation; Learning to Rank; Unbiased Learning**  
 
-
+​    
 
 
 
@@ -100,7 +100,7 @@ Citations **2**
 
 Keywords **compositional fairness; recommender systems; ranking fairness**  
 
-
+​    
 
 #### 634: Leave No User Behind: Towards Improving the Utility of Recommender Systems for Non-mainstream Users
 
@@ -108,7 +108,7 @@ Citations **1**
 
 Keywords **Recommender Systems; Mainstream Bias; User Fairness**  
 
-
+​    
 
 #### 494: Explainable Recommendation with Comparative Constraints on Product Aspects
 
@@ -116,7 +116,7 @@ Keywords **Recommender Systems; Mainstream Bias; User Fairness**
 
 Keywords **Explainable Recommendation; Comparative Constraints**  
 
-
+​    
 
 
 
@@ -130,7 +130,7 @@ Citations **4**
 
 Keywords **Recommender System, False-positive Feedback, Adaptive Denoising Training**  
 
-
+​    
 
 #### 609: A Black-Box Attack Model for Visually-Aware Recommenders
 
@@ -140,7 +140,7 @@ Citations **1**
 
 Keywords **Recommender Systems, Attacks, Adversarial Examples**  
 
-
+​    
 
 #### 155: Diverse User Preference Elicitation with Multi-Armed Bandits
 
@@ -148,7 +148,7 @@ Keywords **Recommender Systems, Attacks, Adversarial Examples**
 
 Keywords **recommender systems, preference elicitation, diversity, bandits**  
 
-
+​    
 
 #### 101: Adapting User Preference to Online Feedback in Multi-round Conversational Recommendation
 
@@ -156,7 +156,7 @@ Keywords **recommender systems, preference elicitation, diversity, bandits**
 
 Keywords **Multi-round conversational recommendation; User preference**  
 
-
+​    
 
 
 
@@ -168,7 +168,7 @@ Keywords **Multi-round conversational recommendation; User preference**
 
 Keywords **food recommendation, personal health, healthy diet, constrained question answering, knowledge graphs**  
 
-
+​    
 
 #### 107: Beyond Point Estimate: Inferring Ensemble Prediction Variation from Neuron Activation Strength in Recommender Systems
 
@@ -176,7 +176,7 @@ Keywords **food recommendation, personal health, healthy diet, constrained quest
 
 Keywords **Ensemble, Neural Networks, Neuron Activation, Prediction Uncertainty, Recommender Systems**  
 
-
+​    
 
 
 
@@ -190,7 +190,7 @@ Keywords **Ensemble, Neural Networks, Neuron Activation, Prediction Uncertainty,
 
 Keywords **Recommender systems, Graph neural networks, Knowledge Graph**  
 
-
+​    
 
 #### 84: Alleviating Cold-Start Problems in Recommendation through Pseudo-Labelling over Knowledge Graph
 
@@ -198,7 +198,7 @@ Keywords **Recommender systems, Graph neural networks, Knowledge Graph**
 
 Keywords **knowledge graph; cold-start recommendation; knowledge-aware re commendation; graph neural networks; semi-supervised learning**  
 
-
+​    
 
 #### 231: Learning User Representations with Hypercuboids for Recommender Systems
 
@@ -206,7 +206,7 @@ Shuai Zhang (ETH Zurich), Huoyu Liu (Alibaba), Aston Zhang (UIUC), Yue Hu (Aliba
 
 Keywords **Recommender Systems, Hypercuboids, User Representation**  
 
-
+​    
 
 #### 433: Enhancing Neural Recommender Models through Domain-Specific Concordance
 
@@ -214,7 +214,7 @@ Keywords **Recommender Systems, Hypercuboids, User Representation**
 
 Keywords **Recommender Systems, Hypercuboids, User Representation**  
 
-
+​    
 
 #### 541: Explanation as a Defense of Recommendation
 
@@ -222,7 +222,7 @@ Keywords **Recommender Systems, Hypercuboids, User Representation**
 
 Keywords **Explainable Recommendation, Natural Language Generation, Sentiment Alignment**  
 
-
+​    
 
 #### 558: Heterogeneous Graph Augmented Multi-Scenario Sharing Recommendation with Tree-Guided Expert Networks
 
@@ -230,7 +230,7 @@ Keywords **Explainable Recommendation, Natural Language Generation, Sentiment Al
 
 Keywords **Heterogeneous Graph, E-Commerce, Sharing Recommendation**  
 
-
+​    
 
 #### 614: Temporal Meta-path Guided Explainable Recommendation
 
@@ -238,3 +238,4 @@ Keywords **Heterogeneous Graph, E-Commerce, Sharing Recommendation**
 
 Keywords **explainable recommendation, temporal recommendation**  
 
+​    
